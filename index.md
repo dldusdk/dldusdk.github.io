@@ -15,7 +15,7 @@
 #### **Personal:**
   ❤️ Animating with Blender *(I want my fruits to come alive!!!)*\
   ❤️ Languages - I love being able to communicate with people of all sorts of languages! \
-   &nbsp 🖤 currently studying: mandarin chinese, \
+    &ensp &ensp 🖤 currently studying: mandarin chinese, \
   ❤️ Ethics and Morality problems *(should I change the train tracks or not?)* 
   
 
