@@ -1,10 +1,11 @@
- <h1 style="text-align: center;"> Welcome to my blog! </h1> 
+ <h1 style="text-align: center;"> Hello! 안녕! (´∀`) </h1> 
+ <h2 style="text-align: center;"> Welcome to my blog! </h2> 
 
-  <h3 style="text-align: center;"> I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves. But also, not forgetting to rest every now and then.  </h3>  
+  <h3 style="text-align: center;"> I believe just like little plants, we need consistient watering of <b>hard learning</b> and lots of beautiful sun from our most favourite <b>hobbies</b> to grow into our best selves. But also, let's not forget to rest every now and then.  </h3>  
 
 #### **My current hobbies are:**
 
-❤️ Badminton (stress relief -= 1000) \
+❤️ Badminton (stress relief -= 1000)  \
 ❤️ Drawing random fruits being happy \
 ❤️ Reading fiction! *(I've been through my non-fiction stage for long enough...)* \
 ❤️ Baking! *(best compliment you could give me is 'it's not too sweet')*\
