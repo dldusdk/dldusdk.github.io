@@ -1,7 +1,5 @@
- <h1 style="text-align: center;"> Hello! 안녕! (´∀`) </h1> 
- <h2 style="text-align: center;"> Welcome to my blog! </h2> 
-
-  <h3 style="text-align: center;"> I believe just like little plants, we need consistient watering of <b>hard learning</b> and lots of beautiful sun from our most favourite <b>hobbies</b> to grow into our best selves. But also, let's not forget to rest every now and then.  </h3>  
+ <h1 style="text-align: center;"> Hello, welcome! 안녕! (´∀`) </h1> 
+ <h3 style="text-align: center;"> I believe just like little plants, we need consistient watering of <b>hard learning</b> and lots of beautiful sun from our most favourite <b>hobbies</b> to grow into our best selves. But also, let's not forget to rest every now and then.  </h3>  
 
 #### **My current hobbies are:**
 
