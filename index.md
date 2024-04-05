@@ -1,6 +1,6 @@
-<p style="text-align: center;"># Welcome to my blog! </p> 
+# <p style="text-align: center;"> Welcome to my blog! </p> 
 
-###  I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves. But also, not forgetting to rest every now and then. 
+###  <p style="text-align: center;"> I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves. But also, not forgetting to rest every now and then.  </p>  
 
 #### **My current hobbies are:**
 
