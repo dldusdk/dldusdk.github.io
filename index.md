@@ -1,8 +1,8 @@
-# ** Welcome to my Blog! ** \
+# Welcome to my Blog! 
 
-####  I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves.\
+###  I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves.\
 
-#### **My current hobbies are:**\
+#### **My current hobbies are:**
 
 ❤️ Badminton (stress relief -= 1000) \
 ❤️ Drawing random fruits being happy \
@@ -10,8 +10,8 @@
 ❤️ Baking! *(best compliment you could give me is 'it's not too sweet')*\
 ❤️ Playing computer games *(currently hooked on: Supermarket Simulator)* \
 
-####  **I'm currently learning about:**\
- ** Personal:** \
+####  **I'm currently learning about:**
+##### **Personal:**
   ❤️ Animating with Blender *(I want my fruits to come alive!!!)*\
   ❤️ Languages - I love being able to communicate with people of all sorts of languages! \
     🖤 currently studying: mandarin chinese, \
@@ -19,6 +19,6 @@
   
 
 
- ** Professional:** \
+##### **Professional:**
   ❤️ TryHackMe *(aspires to be rank 1 one day)*\
   ❤️ HacktheBox 
