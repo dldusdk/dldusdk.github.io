@@ -1,6 +1,6 @@
-# Welcome to my Blog! 
+# Welcome to my blog! 
 
-###  I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves.\
+###  I believe just like little plants, we need consistient watering of **hard learning** and lots of beautiful sun from our most favourite **hobbies** to grow into our best selves. But also, not forgetting to rest every now and then. 
 
 #### **My current hobbies are:**
 
@@ -11,14 +11,14 @@
 ❤️ Playing computer games *(currently hooked on: Supermarket Simulator)* \
 
 ####  **I'm currently learning about:**
-##### **Personal:**
+#### **Personal:**
   ❤️ Animating with Blender *(I want my fruits to come alive!!!)*\
   ❤️ Languages - I love being able to communicate with people of all sorts of languages! \
-    🖤 currently studying: mandarin chinese, \
-  ❤️ Ethics and Morality problems *(should I change the train tracks or not?)*\
+   &nbsp 🖤 currently studying: mandarin chinese, \
+  ❤️ Ethics and Morality problems *(should I change the train tracks or not?)* 
   
 
 
-##### **Professional:**
+#### **Professional:**
   ❤️ TryHackMe *(aspires to be rank 1 one day)*\
   ❤️ HacktheBox 
