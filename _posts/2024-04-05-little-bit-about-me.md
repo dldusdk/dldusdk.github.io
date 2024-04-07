@@ -19,9 +19,11 @@ During my first year of Univeristy, we had a compuslory course where the content
 >
 >  September 17th 2019 9:59AM\
 
-However after that I went through a challenging phase of my life, I ended up falling behind with my studies, ended up going part-time and then finally, I took a break from studies in 2021. I moved up to Auckland in mid-2022, worked full time for a IT company and just simply took a break. \
+However after that I went through a challenging phase of my life, I ended up falling behind with my studies, ended up going part-time and then finally, I took a break from studies in 2021. I moved up to Auckland in mid-2022, worked full time for a IT company and just simply took a break. 
 
-When I returned to University in 2023, I rekindled with my hobbies and passion within the vast world of Computer Science. I dabbled in a bit of Data Science (interest in Artificial Intelligence and Machine Learning) and practiced on kaggle. However, it didn't feel right for me, and one day, after choosing my courses for the last year of University (2024), there I saw it! Cryptography and Discrete Mathematics. **How could I have forgotten?!** Immediatley, I wanted to know how I could apply my love of pure mathematics to the other passion of mine: computer science. 
+When I returned to University in 2023, I rekindled with my hobbies and passion within the vast world of Computer Science. I dabbled in a bit of Data Science (interest in Artificial Intelligence and Machine Learning) and practiced on kaggle. However, it didn't feel right for me, and one day, after choosing my courses for the last year of University (2024), there I saw it! Cryptography and Discrete Mathematics. **How could I have forgotten?!** 
+
+Immediatley, I wanted to know how I could apply my love of pure mathematics to the other passion of mine: computer science. 
 
 > cryptography + computer science = cyber security
 
