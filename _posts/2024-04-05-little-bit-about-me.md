@@ -12,10 +12,10 @@ During my first year of Univeristy, we had a compuslory course where the content
 > Hello, 
 > 
 > My name is Michelle Lee I'm currently a computer science and philosophy major. I am currently enrolled in your MATH120 course and I was wondering if you would be available to discuss career options in cryptography?\
-> I'm very interested in the subject and I would like to pursue further studies in it, however I wanted to discuss whether it would be a viable option and how realistic it would be.\
+> I'm very interested in the subject and I would like to pursue further studies in it, however I wanted to discuss whether it would be a viable option and how realistic it would be.
 >
 > Thank you,
-> Michelle Lee\
+> Michelle Lee
 >
 >  September 17th 2019 9:59AM\
 
