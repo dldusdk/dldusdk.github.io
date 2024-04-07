@@ -1,12 +1,12 @@
- <h2 style="text-align: center;"> Who am I ?</h2> 
+ <h2 style="text-align: center;"> Who am I ? 🍰</h2> 
 As of April 5th 2024, I am a student at University of Canterbury currently completing the last year of my Bachelor of Science programme!
 I major in Computer Science and Philosophy, specializing in Cyber Security and Morals and Ethics.
 
- <h3 style="text-align: center;"> Why Computer Science? </h3> 
+ <h3 style="text-align: center;"> Why Computer Science? 💻</h3> 
 During the last years of my high school time, I was unsure about the path of my future future. I wasn't sure whether to study neurology and be away from home for three years with uncertainty of where I wanted to go with my career.
 Or whether I keep prodding my love and interest of the ever growing technology field we have today. In the end, I decided the lifestyle I wanted was with technology, although I wasn't 100% sure exactly where I wanted to go within the field, I knew I wanted to make contributions and help grow tech to aid our lives. 
 
-<h4 style="text-align: center;"> Why Cyber Security? </h4> 
+<h4 style="text-align: center;"> Why Cyber Security? 🤖</h4> 
 During my first year of Univeristy, we had a compuslory course where the content was about Discrete Mathematics and a little bit of Cryptography. From a young age I always enjoyed **pure** mathematics, so I felt immensely intrigued and fascinated when cryptography was introduced me. I thought "How come I have never encountered this before?". It really felt like a whole new world. In fact I enjoyed it so much that I remember emailing the lecturer about possible career paths within cryptography such as lecturing and being a professor! 
 
 > Hello, 
@@ -28,7 +28,7 @@ Immediatley, I wanted to know how I could apply my love of pure mathematics to t
 > cryptography + computer science = cyber security
 
 
-<h3 style="text-align: center;"> Why Philosophy? </h3> 
+<h3 style="text-align: center;"> Why Philosophy? 🤔 </h3> 
 I'm not going to lie to you and say that I have been an aspiring Philosophist from a young age, who read Kant and Plato while other teenagers played video games.
 In fact, the only 'philosophy' I encountered during my young times was writing 'what is the meaning of life' countless times in mandarin on my high school textbooks. 
 
