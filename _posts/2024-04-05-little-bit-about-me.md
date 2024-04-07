@@ -9,12 +9,12 @@ Or whether I keep prodding my love and interest of the ever growing technology f
 <h4 style="text-align: center;"> Why Cyber Security? </h4> 
 During my first year of Univeristy, we had a compuslory course where the content was about Discrete Mathematics and a little bit of Cryptography. From a young age I always enjoyed **pure** mathematics, so I felt immensely intrigued and fascinated when cryptography was introduced me. I thought "How come I have never encountered this before?". It really felt like a whole new world. In fact I enjoyed it so much that I remember emailing the lecturer about possible career paths within cryptography such as lecturing and being a professor! 
 
-> Hello, \
+> Hello, 
 > 
 > My name is Michelle Lee I'm currently a computer science and philosophy major. I am currently enrolled in your MATH120 course and I was wondering if you would be available to discuss career options in cryptography?\
 > I'm very interested in the subject and I would like to pursue further studies in it, however I wanted to discuss whether it would be a viable option and how realistic it would be.\
 >
-> Thank you,\
+> Thank you,
 > Michelle Lee\
 >
 >  September 17th 2019 9:59AM\
