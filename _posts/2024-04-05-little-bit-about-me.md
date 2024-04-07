@@ -37,3 +37,5 @@ In fact, the only 'philosophy' I encountered during my young times was writing '
 
 Honestly, I didn't have a clear direction or meaning to my life at that time. I was a bit lost, however, time went on and during my first year of University I took a Philosophy paper to fill my degree.
 When I sat in my first philosophy class, the lecturer, Michael. J.T was the most inspiring, humourous, uplifiting lecturer I had encountered. I felt so inspired from him that ultimatley, his passion for Phillsophy radiated onto me and that encounter was what made me pursue Philsophy. 
+
+Last updated: 4/7/2024 4:58PM
