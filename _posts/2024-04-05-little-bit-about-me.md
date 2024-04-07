@@ -17,7 +17,7 @@ During my first year of Univeristy, we had a compuslory course where the content
 > Thank you,
 > Michelle Lee
 >
->  September 17th 2019 9:59AM\
+>  September 17th 2019 9:59AM
 
 However after that I went through a challenging phase of my life, I ended up falling behind with my studies, ended up going part-time and then finally, I took a break from studies in 2021. I moved up to Auckland in mid-2022, worked full time for a IT company and just simply took a break. 
 
