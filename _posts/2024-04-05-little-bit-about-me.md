@@ -10,11 +10,14 @@ Or whether I keep prodding my love and interest of the ever growing technology f
 During my first year of Univeristy, we had a compuslory course where the content was about Discrete Mathematics and a little bit of Cryptography. From a young age I always enjoyed **pure** mathematics, so I felt immensely intrigued and fascinated when cryptography was introduced me. I thought "How come I have never encountered this before?". It really felt like a whole new world. In fact I enjoyed it so much that I remember emailing the lecturer about possible career paths within cryptography such as lecturing and being a professor! 
 
 > Hello, \
+> 
 > My name is Michelle Lee I'm currently a computer science and philosophy major. I am currently enrolled in your MATH120 course and I was wondering if you would be available to discuss career options in cryptography?\
 > I'm very interested in the subject and I would like to pursue further studies in it, however I wanted to discuss whether it would be a viable option and how realistic it would be.\
+>
 > Thank you,\
 > Michelle Lee\
-> September 17th 2019 9:59AM\
+>
+>  September 17th 2019 9:59AM\
 
 However after that I went through a challenging phase of my life, I ended up falling behind with my studies, ended up going part-time and then finally, I took a break from studies in 2021. I moved up to Auckland in mid-2022, worked full time for a IT company and just simply took a break. \
 
@@ -28,6 +31,7 @@ I'm not going to lie to you and say that I have been an aspiring Philosophist fr
 In fact, the only 'philosophy' I encountered during my young times was writing 'what is the meaning of life' countless times in mandarin on my high school textbooks. 
 
 > 生活的意思是什么
+> (directly translates to what is the meaning of life)
 
 Honestly, I didn't have a clear direction or meaning to my life at that time. I was a bit lost, however, time went on and during my first year of University I took a Philosophy paper to fill my degree.
 When I sat in my first philosophy class, the lecturer, Michael. J.T was the most inspiring, humourous, uplifiting lecturer I had encountered. I felt so inspired from him that ultimatley, his passion for Phillsophy radiated onto me and that encounter was what made me pursue Philsophy. 
