@@ -14,11 +14,11 @@
 <h4 style="text-align: center;">I'm currently learning about: </h4> 
 <h4 style="text-align: center;">Personal development: </h4> 
 
-  ❤️ Animating with Blender 
+  ❤️ Animating with Blender \
   ❤️ Languages - I love being able to communicate with people of all sorts of languages! \
    *🖤 currently studying: mandarin chinese,* \
 
 <h4 style="text-align: center;">Professional development: </h4> 
-  ❤️ TryHackMe 
+  ❤️ TryHackMe \
   ❤️ HacktheBox *(aspires to be rank 1 one day)*\
   ❤️ CompTIA Security+ Certification!
