@@ -11,7 +11,7 @@
 ❤️ Playing computer games *(currently hooked on: Supermarket Simulator)* \
 ❤️ Nail art 
 
-<h4 style="text-align: center;">**I'm currently learning about:** </h4> 
+<h4 style="text-align: center;">I'm currently learning about: </h4> 
 <h4 style="text-align: center;">Personal development: </h4> 
 
   ❤️ Animating with Blender \
