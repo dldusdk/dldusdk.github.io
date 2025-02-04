@@ -4,7 +4,8 @@
 
 <div align="center">
     <a href="https://info.flagcounter.com/xhAf">
-        <img src="https://s01.flagcounter.com/count2/xhAf/bg_FBD9FF/txt_000000/border_CBA5CC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
-             alt="Flag Counter">
+        <img src="https://api.allorigins.win/raw?url=https://s01.flagcounter.com/count2/xhAf/bg_FBD9FF/txt_000000/border_CBA5CC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+     alt="Flag Counter">
+
     </a>
 </div>
