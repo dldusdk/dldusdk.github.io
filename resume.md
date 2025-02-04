@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Resume
+title: 😺 Resume
 ---
