@@ -1,6 +1,8 @@
 title: growing like a plant 
 author: Michelle Yeona Lee
 description: I am the tallest and happiest when I am learning and doing. This is my blog to showcase my growth.
+email: michelleyeonalee@gmail.com
+url: michelleyeonalee.net
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -25,7 +27,13 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
+header_pages:
+- aboutme.md
+- projects.html
+- archive.html
+- contact.md
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -33,6 +41,7 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+  
 
 defaults:
   - scope:
