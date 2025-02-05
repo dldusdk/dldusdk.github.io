@@ -1,15 +1,4 @@
 <hr>
-<nav class="main-nav">
-  <ul>
-   <a href="{{ 'index.html' | absolute_url }}">🏠 Home</a>
-   <a href="{{ 'cv.html' | absolute_url }}">📝 CV</a>
-   <a href="{{ 'about.html' | absolute_url }}">👧 About Me</a>
-   <a href="{{ 'contact.html' | absolute_url }}">📧 Contact Me</a>
-   <a href="{{ 'projects.html' | absolute_url }}">🛠️ Projects</a>
-   <a href="{{ 'cybersecurity.html' | absolute_url }}">👾Cyber Security</a>
-  </ul>
-</nav>
-
 <div class="post_navi">
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
