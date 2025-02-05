@@ -6,7 +6,7 @@ title: 👧 About Me
 I am a recently graduated student with a BSc in Computer Science and Philosophy.
 
 <h2 style="text-align: center;"> 💻 Github </h2> 
-https://github.com/dldusdk
+github.com/dldusdk
 
 <h2 style="text-align: center;"> 📧 Email </h2> 
 michelleyeonalee@gmail.com
