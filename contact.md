@@ -1,17 +1,16 @@
 ---
 layout: page
-title: 👧 About Me
+title: about me
 ---
-<h2 style="text-align: center;"> about me... </h2> 
 I am a recently graduated student with a BSc in Computer Science and Philosophy.
 
-<h2 style="text-align: center;"> 💻 Github </h2> 
+<h3 style="text-align: left;"> 💻 Github </h3> 
 github.com/dldusdk
 
-<h2 style="text-align: center;"> 📧 Email </h2> 
+<h3 style="text-align: left;"> 📧 Email </h3> 
 michelleyeonalee@gmail.com
 
-<h2 style="text-align: center;"> 🤝 Linkedin </h2> 
+<h3 style="text-align: left;"> 🤝 Linkedin </h3> 
 linkedin.com/in/michelleyeonalee/
 
 
