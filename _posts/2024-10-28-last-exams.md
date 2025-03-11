@@ -4,6 +4,9 @@ title: "Last Exams forever?"
 date: 2024-10-28 09:00:00 +0000
 categories:
   - personal
+tags:
+  - exams
+  - student life
 ---
  
  <h2 style="text-align: center;"> Last Exams forever?</h2> 
