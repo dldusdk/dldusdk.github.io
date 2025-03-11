@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Who Am I?"
+date: 2024-04-05 12:00:00 +0000
+categories:
+  - personal
+tags:
+  - just me
+  - life
+---
+ 
+ 
  <h2 style="text-align: center;"> Who am I ? </h2> 
 As of April 5th 2024, I am a student at University of Canterbury currently completing the last year of my Bachelor of Science programme!
 I major in Computer Science and Philosophy, specializing in Cyber Security and Morals and Ethics.
