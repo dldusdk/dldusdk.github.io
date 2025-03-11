@@ -2,8 +2,7 @@
 layout: page
 title: about me
 ---
-
-<img src="asset/pengwangmimied-modified.png" alt="Pink happy penguin" style="height: 100px; width:100px;"/
+![image info](pengwangmimied-modified.png)
 
 <em> As of 02/05/2024...</em>
 
