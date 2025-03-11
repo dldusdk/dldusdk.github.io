@@ -2,6 +2,9 @@
 layout: page
 title: about me
 ---
+<div style="text-align: center;">
+  <h1>{{ page.title }}</h1>
+</div>
 
 <div style="text-align: center;">
   <img src="pengwangmimied.png" alt="Pink happy penguin" style="display: block; margin: auto;">
