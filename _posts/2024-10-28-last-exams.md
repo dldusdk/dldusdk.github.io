@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Last Exams forever?"
+date: 2024-10-28 09:00:00 +0000
+categories:
+  - personal
+---
+ 
  <h2 style="text-align: center;"> Last Exams forever?</h2> 
 I haven't made a post here in a while!
 
