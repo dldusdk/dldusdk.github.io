@@ -16,12 +16,15 @@ title:
 
   <h2>Contact me here</h2>
 
-  <h3 style="text-align: left;"> 📧 Email </h3> 
+  <h3> 📧 Email </h3> 
   michelleyeonalee@gmail.com
 
-  <h3 style="text-align: left;"> 🤝 Linkedin </h3> 
+  <h3> 🤝 Linkedin </h3> 
   linkedin.com/in/michelleyeonalee/
 
-  <h3 style="text-align: left;"> 💻 Github </h3> 
+  <h3> 💻 Github </h3> 
   github.com/dldusdk
+
+  <h3> 📷 Instagram </h3>
+  instagram.com/pengwangadventures  
 </div>
