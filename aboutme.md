@@ -3,7 +3,7 @@ layout: page
 title: about me
 ---
 
-<img src="/assets/img/MarineGEO_logo.png" alt="Pink happy penguin" style="height: 100px; width:100px;"/
+<img src="asset/pengwangmimied-modified.png" alt="Pink happy penguin" style="height: 100px; width:100px;"/
 
 <em> As of 02/05/2024...</em>
 
