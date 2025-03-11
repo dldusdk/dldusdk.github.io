@@ -3,7 +3,7 @@ layout: page
 title: projects
 ---
 
-{% for tag in site.tags %}
+{% for tag in site.categories.projects %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for projpost in tag[1] %}
