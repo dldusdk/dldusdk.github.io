@@ -2,7 +2,7 @@
 layout: page
 title: about me
 ---
-![image info](pengwangmimied-modified.png)
+![Pink happy penguin](pengwangmimied.png)
 
 <em> As of 02/05/2024...</em>
 
