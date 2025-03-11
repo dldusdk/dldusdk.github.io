@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
+title: about me.
 ---
 
 <div style="text-align: center;">
-  <h1> about me.</h1> 
-
   <img src="pengwangmimied.png" alt="Pink happy penguin" style="display: block; margin: auto;">
   <p></p>
   <em> As of 02/05/2024...</em>
@@ -16,15 +14,11 @@ title:
 
   <h2>Contact me here</h2>
 
-  <h3> 📧 Email </h3> 
-  michelleyeonalee@gmail.com
+  <h4> 📧 Email </h4> michelleyeonalee@gmail.com
 
-  <h3> 🤝 Linkedin </h3> 
-  linkedin.com/in/michelleyeonalee/
+  <h4> 🤝 Linkedin </h4> linkedin.com/in/michelleyeonalee/
 
-  <h3> 💻 Github </h3> 
-  github.com/dldusdk
+  <h4> 💻 Github </h4> github.com/dldusdk
 
-  <h3> 📷 Instagram </h3>
-  instagram.com/pengwangadventures  
+  <h4> 📷 Instagram </h4> instagram.com/pengwangadventures  
 </div>
