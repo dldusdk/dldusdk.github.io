@@ -2,7 +2,10 @@
 layout: page
 title: about me
 ---
-![Pink happy penguin](pengwangmimied.png)
+
+<div style="text-align: center;">
+  <img src="pengwangmimied.png" alt="Pink happy penguin" style="display: block; margin: auto;">
+</div>
 
 <em> As of 02/05/2024...</em>
 
