@@ -13,12 +13,12 @@ title: about me
   </p>
 
   <h2>Contact me here</h2>
+  
+  <h4> 📧 Email </h4> <a href="mailto:michelleyeonalee@gmail.com">michelleyeonalee@gmail.com</a> <p></p>
 
-  <h4> 📧 Email </h4> michelleyeonalee@gmail.com
+  <h4> 🤝 LinkedIn </h4> <a href="https://linkedin.com/in/michelleyeonalee/" target="_blank">linkedin.com/in/michelleyeonalee/</a> <p></p>
 
-  <h4> 🤝 Linkedin </h4> linkedin.com/in/michelleyeonalee/
+  <h4> 💻 GitHub </h4> <a href="https://github.com/dldusdk" target="_blank">github.com/dldusdk</a> <p></p>
 
-  <h4> 💻 Github </h4> github.com/dldusdk
-
-  <h4> 📷 Instagram </h4> instagram.com/pengwangadventures  
+  <h4> 📷 Instagram </h4> <a href="https://instagram.com/pengwangadventures" target="_blank">instagram.com/pengwangadventures</a> <p></p>
 </div>
