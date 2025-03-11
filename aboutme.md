@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me.
+title: about me
 ---
 
 <div style="text-align: center;">
