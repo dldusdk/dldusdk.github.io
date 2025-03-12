@@ -1,21 +1,28 @@
 <hr>
 <div class="post_navi">
-  {%- if page.previous.url -%}
-  <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ page.previous.title }}</span></div>
-  </a>
+  {%- assign category_posts = site.posts | where_exp: "post", "post.categories contains 'projects' or post.categories contains 'blogs'" -%}
+  {%- assign sorted_posts = category_posts | sort: "date" | reverse -%}
+  {%- assign current_index = sorted_posts | map: "url" | index_of: page.url -%}
+
+  {%- if current_index > 0 -%}
+    {%- assign previous_post = sorted_posts[current_index - 1] -%}
+    <a class="post_navi-item nav_prev" href="{{ previous_post.url }}" title="{{ previous_post.title }}">
+      <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ previous_post.title }}</span></div>
+    </a>
   {%- else -%}
-  <a class="post_navi-item nav_prev" href="{{ 'blog.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
-  </a>
+    <a class="post_navi-item nav_prev" href="{{ 'blog.html' | absolute_url }}" title="Blog Archive">
+      <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
+    </a>
   {%- endif -%}
-  {%- if page.next.url -%}
-  <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ page.next.title }}</span></div>
-  </a>
+
+  {%- if current_index < sorted_posts.size - 1 -%}
+    {%- assign next_post = sorted_posts[current_index + 1] -%}
+    <a class="post_navi-item nav_next" href="{{ next_post.url }}" title="{{ next_post.title }}">
+      <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ next_post.title }}</span></div>
+    </a>
   {%- else -%}
-  <a class="post_navi-item nav_next" href="{{ 'blog.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
-  </a>
+    <a class="post_navi-item nav_next" href="{{ 'blog.html' | absolute_url }}" title="Blog Archive">
+      <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
+    </a>
   {%- endif -%}
 </div>
